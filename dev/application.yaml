@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/Arunalavala1996/flask-website.git
     targetRevision: HEAD
-    path: 
+    path: dev
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
